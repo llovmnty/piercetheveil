@@ -1,5 +1,5 @@
 .cabecalho {
-    background-color: #2c2929;
+    background-color: #292828;
     color: #ffffff;
     display: flex;
     justify-content: space-around;
@@ -17,4 +17,17 @@
 }
 .banda-imagem{
     width:25%;}
-    .banda {background-image: linear-gradient(#2c2929,#ffffff);}
+
+    .banda {background-image: linear-gradient(#292828, #332f2f);
+    color: #ffffff;
+    display: flex;
+ justify-content: center;
+ align-items: center;
+ padding: 24px 0;
+}
+.banda-conteudo{
+width: 40%;
+}
+.banda-titulo {
+    padding: 24px 0;
+}
