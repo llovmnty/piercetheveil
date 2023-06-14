@@ -18,7 +18,7 @@
 .banda-imagem{
     width:25%;}
 
-    .banda {background-image: linear-gradient(#292828, #332f2f);
+    .banda {background-image: linear-gradient(#292828, #353030);
     color: #ffffff;
     display: flex;
  justify-content: center;
@@ -32,6 +32,11 @@ width: 40%;
     padding: 24px 0;
 }
 body{font-family: 'EB Garamond', serif;}
- .Vocalista-imagem{
-    width: 120px
- }
+ .Vocalista{
+    width: 185px }
+    .vocalista-div {text-align: center;}
+    .Integrantes-titulo{text-align: center;
+    padding: 50px 0;}
+    .Integrantes-todos{
+        display:grid;
+    grid-template-columns: 20% 20% 20% 20%;}
